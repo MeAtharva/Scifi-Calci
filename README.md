@@ -4,7 +4,7 @@
 
 2. Else if you have git installed, copy the link given in the code section and run the following command
 
-    git clone <link>
+    git clone {paste the link}
 
 Hence, you will recieve the files in your local system directory.
 
