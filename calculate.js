@@ -161,7 +161,7 @@ function pi(){
 function e(){
 	display = document.getElementById("result");
 	display.value = Math.E
-	completed = true;;
+	completed = true;
 	answer = display.value;
 	toExp()
 }
@@ -174,9 +174,6 @@ function answ() {
 	toExp();	
 }
 
-/*
- * One variable operations
- */
 
 //Function sin(x)
 function sin(){
